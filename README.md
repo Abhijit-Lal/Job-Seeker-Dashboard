@@ -17,7 +17,7 @@ A modern, intuitive web application to help job seekers efficiently track and ma
 
 ## 📸 Screenshot Preview  
 
-![Job Seeker Dashboard Screenshot](./screenshot.png)  
+![Job Seeker Dashboard Screenshot](./screenshot/admin.png)
 
 ---
 
